@@ -189,7 +189,7 @@ ul {
     padding-top: 4rem;
     padding-bottom: 4rem;
   }
-  .about .aboutInfo h4 {
+  .about .aboutInfo h2 {
     color: #000;
     text-transform: uppercase;
     font-size: 25px;
@@ -198,10 +198,10 @@ ul {
     letter-spacing: 5px;
     font-family: "Cormorant Garamond", serif;
   }
-  .about .aboutInfo h4:nth-child(2) {
+  .about .aboutInfo h2:nth-child(2) {
     color: #bcaf87;
   }
-  .about .aboutInfo h4:last-of-type {
+  .about .aboutInfo h2:last-of-type {
     margin-bottom: 1rem;
   }
   .about .aboutInfo p {
@@ -245,13 +245,13 @@ ul {
     justify-content: center;
     align-items: center;
   }
-  .reservation :last-child h5,
+  .reservation :last-child h3,
   .reservation :last-child p {
     font-size: 18px;
     color: #272f3c;
     font-weight: 500;
   }
-  .reservation :last-child h5 {
+  .reservation :last-child h3 {
     margin-bottom: 1.5rem;
     text-align: center;
   }
@@ -702,7 +702,7 @@ ul {
     padding-top: 4rem;
     padding-bottom: 4rem;
   }
-  .about .aboutInfo h4 {
+  .about .aboutInfo h2 {
     color: #000;
     text-transform: uppercase;
     font-size: 40px;
@@ -711,10 +711,10 @@ ul {
     letter-spacing: 5px;
     font-family: "Cormorant Garamond", serif;
   }
-  .about .aboutInfo h4:nth-child(2) {
+  .about .aboutInfo h2:nth-child(2) {
     color: #bcaf87;
   }
-  .about .aboutInfo h4:last-of-type {
+  .about .aboutInfo h2:last-of-type {
     margin-bottom: 1rem;
   }
   .about .aboutInfo p {
@@ -758,13 +758,13 @@ ul {
     justify-content: center;
     align-items: center;
   }
-  .reservation :last-child h5,
+  .reservation :last-child h3,
   .reservation :last-child p {
     font-size: 18px;
     color: #272f3c;
     font-weight: 500;
   }
-  .reservation :last-child h5 {
+  .reservation :last-child h3 {
     margin-bottom: 1.5rem;
     text-align: center;
   }
@@ -1185,7 +1185,7 @@ ul {
     padding-top: 4rem;
     padding-bottom: 4rem;
   }
-  .about .aboutInfo h4 {
+  .about .aboutInfo h2 {
     color: #000;
     text-transform: uppercase;
     font-size: 50px;
@@ -1194,10 +1194,10 @@ ul {
     letter-spacing: 5px;
     font-family: "Cormorant Garamond", serif;
   }
-  .about .aboutInfo h4:nth-child(2) {
+  .about .aboutInfo h2:nth-child(2) {
     color: #bcaf87;
   }
-  .about .aboutInfo h4:last-of-type {
+  .about .aboutInfo h2:last-of-type {
     margin-bottom: 1rem;
   }
   .about .aboutInfo p {
@@ -1241,13 +1241,13 @@ ul {
     justify-content: center;
     align-items: center;
   }
-  .reservation :last-child h5,
+  .reservation :last-child h3,
   .reservation :last-child p {
     font-size: 16px;
     color: #272f3c;
     font-weight: 500;
   }
-  .reservation :last-child h5 {
+  .reservation :last-child h3 {
     margin-bottom: 1.5rem;
   }
   .reservation :last-child a {
@@ -1661,7 +1661,7 @@ ul {
     padding-right: 10%;
     padding-left: 10%;
   }
-  .about .aboutInfo h4 {
+  .about .aboutInfo h2 {
     color: #000;
     text-transform: uppercase;
     font-size: 80px;
@@ -1670,10 +1670,10 @@ ul {
     letter-spacing: 5px;
     font-family: "Cormorant Garamond", serif;
   }
-  .about .aboutInfo h4:nth-child(2) {
+  .about .aboutInfo h2:nth-child(2) {
     color: #bcaf87;
   }
-  .about .aboutInfo h4:last-of-type {
+  .about .aboutInfo h2:last-of-type {
     margin-bottom: 2rem;
   }
   .about .aboutInfo p {
@@ -1717,13 +1717,13 @@ ul {
     justify-content: center;
     align-items: center;
   }
-  .reservation :last-child h5,
+  .reservation :last-child h3,
   .reservation :last-child p {
     font-size: 18px;
     color: #272f3c;
     font-weight: 500;
   }
-  .reservation :last-child h5 {
+  .reservation :last-child h3 {
     margin-bottom: 1.5rem;
   }
   .reservation :last-child a {
