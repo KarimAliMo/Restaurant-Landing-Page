@@ -22,6 +22,31 @@ a {
 ul {
   list-style-type: none;
 }
+/* CSS rules applied for all screens */
+.landing {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url("/1052976\ \(3\).webp");
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  animation: zoom-in-out 20s infinite;
+  z-index: -1;
+}
+@keyframes zoom-in-out {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
 /* Media queries for responsive design */
 
 /* Small devices (phones, 600px and down) */
@@ -88,30 +113,7 @@ ul {
     color: rgb(95, 95, 95);
   }
   /* landing style */
-  .landing {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-image: url("/1052976.webp");
-    background-size: cover;
-    background-position: center;
-    height: 100%;
-    animation: zoom-in-out 20s infinite;
-    z-index: -1;
-  }
-  @keyframes zoom-in-out {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.2);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
+
   .land {
     position: relative;
     overflow: hidden;
@@ -596,30 +598,7 @@ ul {
     color: rgb(95, 95, 95);
   }
   /* landing style */
-  .landing {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-image: url("/1052976.webp");
-    background-size: cover;
-    background-position: center;
-    height: 100%;
-    animation: zoom-in-out 20s infinite;
-    z-index: -1;
-  }
-  @keyframes zoom-in-out {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.2);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
+
   .land {
     position: relative;
     overflow: hidden;
@@ -1084,30 +1063,7 @@ ul {
     color: rgb(95, 95, 95);
   }
   /* landing style */
-  .landing {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-image: url("/1052976.webp");
-    background-size: cover;
-    background-position: center;
-    height: 100%;
-    animation: zoom-in-out 20s infinite;
-    z-index: -1;
-  }
-  @keyframes zoom-in-out {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.2);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
+
   .land {
     position: relative;
     overflow: hidden;
@@ -1565,30 +1521,7 @@ ul {
   nav .menu li a:active {
     color: rgb(95, 95, 95);
   }
-  .landing {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-image: url("/1052976.webp");
-    background-size: cover;
-    background-position: center;
-    height: 100%;
-    animation: zoom-in-out 20s infinite;
-    z-index: -1;
-  }
-  @keyframes zoom-in-out {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.2);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
+
   .land {
     position: relative;
     overflow: hidden;
